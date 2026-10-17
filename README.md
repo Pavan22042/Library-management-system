@@ -10,4 +10,4 @@ Open `index.html` in a modern browser. Add titles, search by title, author, or I
 
 The project uses `main` for the stable baseline, `develop` for integration, and `feature/library-dashboard` for the catalog work. The feature branch adds the application and updates the project status below. Meanwhile, `develop` changes that same status line. Merging the feature into `develop` therefore creates an intentional conflict; resolve it by retaining both the library feature update and the integration note.
 
-Project status: develop integration branch ready.
+Project status: library catalog feature ready.
